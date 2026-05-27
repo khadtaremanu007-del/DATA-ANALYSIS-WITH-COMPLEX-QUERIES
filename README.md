@@ -31,3 +31,6 @@ Overall, this task enhances knowledge of advanced SQL techniques and demonstrate
 
 ## OUTPUT
 
+<img width="300" height="400" alt="Image" src="https://github.com/user-attachments/assets/6aac793c-fd07-49b2-aa23-4584a1589b98" />
+<br>
+<img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/e5809e24-ca6e-4915-af09-6d2a4c51e243" />
